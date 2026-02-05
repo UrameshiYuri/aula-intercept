@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "_id": "696a87f1cf2982c026c78b24",
+            "name": "Categoria Contrato",
+            "createdAt": "2026-01-16T18:48:17.104Z",
+            "updatedAt": "2026-01-16T18:48:17.104Z",
+            "__v": 0
+        },
+        {
+            "_id": "696a87eacf2982c026c78b12",
+            "name": "Categoria Contrato",
+            "createdAt": "2026-01-16T18:48:10.868Z",
+            "updatedAt": "2026-01-16T18:48:10.868Z",
+            "__v": 0
+        }
+    ],
+    "totalCategory": 2
+    }
