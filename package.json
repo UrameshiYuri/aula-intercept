@@ -1,7 +1,7 @@
 {
-  "name": "cy-intercept",
+  "name": "cy-environment",
   "version": "1.0.0",
-  "description": "Cypress Intercept",
+  "description": "Cypress Environments",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run"
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.3",
+    "dotenv": "^17.2.4",
     "puppeteer": "^21.9.0"
   }
 }
