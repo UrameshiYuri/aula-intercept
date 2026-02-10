@@ -1,7 +1,7 @@
 {
-  "name": "cy-environment",
+  "name": "cy-dynamic-validations",
   "version": "1.0.0",
-  "description": "Cypress Environments",
+  "description": "Cypress Dynamic validations",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run"
