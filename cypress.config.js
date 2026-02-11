@@ -27,6 +27,10 @@ module.exports = defineConfig({
       ebacStoreVersion: 'v1'
 
     }
-
   },
+  reporter: 'mochawesome',
+  reporterOptions: {
+    reportFilename: "[name]-result",
+    html: false
+  }
 });
