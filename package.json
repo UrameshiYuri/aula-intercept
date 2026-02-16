@@ -1,7 +1,7 @@
 {
-  "name": "cy-reports",
+  "name": "cy-lens",
   "version": "1.0.0",
-  "description": "Cypress Reports",
+  "description": "Cypress Lens",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run",
@@ -14,6 +14,7 @@
   "dependencies": {
     "cypress": "^13.6.3",
     "cypress-html-reporter": "^11.0.0",
+    "cypress-lens": "^1.17.0",
     "dotenv": "^17.2.4",
     "puppeteer": "^24.37.2"
   },

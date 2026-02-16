@@ -20,6 +20,7 @@ describe('Environment Variables', () => {
             let price = product.find('[data-testid="price"]').text()
             expect(price).contain('R$')
         })
+        cy.compareSnapshot(Cypress.currentTest.title, 1)
     })
 
 })
